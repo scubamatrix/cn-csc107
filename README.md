@@ -21,4 +21,3 @@ You should now be ready to work on a code project.
 - You should create a separate folder for your course assignments.
 
 - Select `File > Open Folder` and then browse and select the workspace folder for your assignemnts.
-z
