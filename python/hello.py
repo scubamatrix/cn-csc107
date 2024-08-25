@@ -10,8 +10,6 @@ Version: 1.0
 Python: 3.11.6
 """
 import math
-# import os
-# import sys
 
 
 def compute_area():
