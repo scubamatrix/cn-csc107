@@ -6,7 +6,7 @@ A program template for easy reference.
 
 Author: Jeff Holmes
 Date: 01/06/2024
-Version: 1.0
+Version: 0.1.0
 Python: 3.11.6
 License: MIT License (optional)
 

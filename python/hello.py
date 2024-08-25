@@ -6,8 +6,8 @@ A program to calculate the surface area of a cone.
 
 Author: Jeff Holmes
 Date: 01/06/2024
-Version: 1.0
-Python: 3.11.6
+Version: 0.1.0
+Python: 3.11.9
 """
 import math
 
