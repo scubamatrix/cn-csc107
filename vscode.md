@@ -1,6 +1,8 @@
 # VS Code Extensions
 
-Here are some VS Code extensions that are useful:
+The VS Code profile is preconfigured with the following extensions and default workspace settings. 
+
+There are some extensions that are useful when coding:
 
 - Color Highlight
 - Debug Controls in Titlebar
@@ -11,7 +13,7 @@ Here are some VS Code extensions that are useful:
 - Todo Tree
 - Trailing Spaces
 
-Here are some helpful extensions for Python:
+There are some helpful extensions for Python:
 
 - autoDocstring
 - Black Formatter
@@ -20,7 +22,7 @@ Here are some helpful extensions for Python:
 - Microsoft Python
 - Microsoft Python Debugger
 
-Here are some optional extensions that are useful:
+There are some optional extensions that can be useful for coding:
 
 - GistPad
 - Code Runner
