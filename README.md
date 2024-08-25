@@ -18,6 +18,6 @@ I have created a VSCode profile with the recommended extensions and default work
 
 You should now be ready to work on a vscode project.
 
-- You can create a folder for your course assignments using the `pyproject.toml` and `setup.cfg` files in this repo as a starter project. 
+- You can create a folder for your course assignments using the `pyproject.toml` and `setup.cfg` files in this repo as a starter project.
 
 - Select `File > Open Folder` and then browse and select the workspace folder you created for your assignment.
