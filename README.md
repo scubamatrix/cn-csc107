@@ -4,7 +4,7 @@ This repo is a supplement for the CSC-107-AOLCP: Computer Programming I course f
 
 It is recommended that students use [Visual Studio Code](https://github.com/scubamatrix/cn-csc107) to complete the assignments.
 
-I have created a VSCode profile with the recommended extensions and workspace settings:
+I have created a VSCode profile with the recommended extensions and default workspace settings:
 
 1. Download or clone the the GitHub repository (repo) to a folder on your machine.
 
@@ -18,6 +18,6 @@ I have created a VSCode profile with the recommended extensions and workspace se
 
 You should now be ready to work on a vscode project.
 
-- You should create a separate folder for your course assignments.
+- You can create a folder for your course assignments using the `pyproject.toml` and `setup.cfg` files in this repo as a starter project. 
 
-- Select `File > Open Folder` and then browse and select the workspace folder for your assignment.
+- Select `File > Open Folder` and then browse and select the workspace folder you created for your assignment.
