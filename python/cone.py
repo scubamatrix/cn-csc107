@@ -2,7 +2,7 @@
 """
 cone.py
 
-A program to calculate the surface area of a cone. 
+A program to calculate the surface area of a cone.
 
 Author: Jeff Holmes
 Date: 01/06/2024
@@ -20,7 +20,7 @@ height = float(input("Enter the height of the cone in inches: "))
 radius = float(input("Enter the radius of the cone in inches: "))
 
 # Calculate the surface area
-area = math.pi * radius * (radius + math.sqrt(height ** 2 + radius **2))
+area = math.pi * radius * (radius + math.sqrt(height ** 2 + radius ** 2))
 
 # Print the output
 print("The surface area of the cone is {:.2f} square inches.".format(area))
