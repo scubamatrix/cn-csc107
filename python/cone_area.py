@@ -10,8 +10,6 @@ Version: 1.0
 Python: 3.11.6
 """
 import math
-import os
-import sys
 
 
 def cone_area():
@@ -21,12 +19,12 @@ def cone_area():
     # Introduce the program
     print("This program determines the surface area of a cone.")
 
-    # Get the Data
+    # Get input from user
     height = float(input("Enter the height of the cone in inches: "))
     radius = float(input("Enter the radius of the cone in inches: "))
 
     # Calculate the surface area
-    area = math.pi * radius * (radius + math.sqrt(height ** 2 + radius **2))
+    area = math.pi * radius * (radius + math.sqrt(height ** 2 + radius ** 2))
 
     # Save formatted output to variable
     # error_message = "The surface area of the cone is {:.2f} square inches.".format(area))
