@@ -2,11 +2,11 @@
 """
 hello.py
 
-A program template for easy reference.
+A program template for reference.
 
 Author: Jeff Holmes
 Date: 01/06/2024
-Version: 0.1.0
+Version: 1.0
 Python: 3.11.6
 License: MIT License (optional)
 
@@ -26,7 +26,7 @@ def compute_area():
     # Introduce the program
     print("\nThis program determines the surface area of a cone.")
 
-    # Get the Data
+    # Get input from user
     height = float(input("Enter the height of the cone in inches: "))
     radius = float(input("Enter the radius of the cone in inches: "))
 
